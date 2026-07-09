@@ -1,19 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00D9FF,100:0055FF&text=Soumik%20Chatterjee&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3CB371,100:0B3D2E&text=Soumik%20Chatterjee&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 # 👋 Hi, I'm Soumik Chatterjee
 
 ### 🚀 AI Developer • Full Stack Developer • B.Tech AIML Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Enthusiast;Building+Better+Solutions+with+AI;Exploring+Deep+Learning;MERN+Stack+Developer;Healthcare+AI+Innovator"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=3CB371&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Enthusiast;Building+Better+Solutions+with+AI;Exploring+Deep+Learning;Full+Stack+Developer;Healthcare+AI+Innovator;Building+BoneTalk+to+Empower+Communication"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=soumik7484-art&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=soumik7484-art&label=Profile%20Views&color=3CB371&style=for-the-badge"/>
 
 </div>
 
+---
 ---
 
 ## 💫 About Me
