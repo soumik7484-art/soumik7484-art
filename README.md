@@ -193,4 +193,5 @@ Summarizes medical reports into easy-to-understand insights.
 </picture>
 
 ---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B3D2E,100:3CB371&section=footer"/>
 
