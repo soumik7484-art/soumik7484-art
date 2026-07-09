@@ -62,6 +62,7 @@ Summarizes medical reports into easy-to-understand insights.
 # 💻 Tech Stack
 
 <div align="center">
+
 ## 💻 Most Used Languages
 
 <p align="center">
@@ -70,7 +71,51 @@ Summarizes medical reports into easy-to-understand insights.
 
 ---
 
-<img src="https://skillicons.dev/icons?i=python,c,javascript,react,nodejs,express,mongodb,flask,html,css,tailwind,tensorflow,opencv,git,github,vscode,figma"/>
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,javascript"/>
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
 
 </div>
 
@@ -91,15 +136,6 @@ Summarizes medical reports into easy-to-understand insights.
 ---
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
 
 ---
 
@@ -110,3 +146,13 @@ Summarizes medical reports into easy-to-understand insights.
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
