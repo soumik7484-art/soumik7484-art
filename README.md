@@ -16,16 +16,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 ## 💫 About Me
 
 - 🎓 B.Tech in Artificial Intelligence & Machine Learning
@@ -99,6 +89,16 @@ Summarizes medical reports into easy-to-understand insights.
 </p>
 
 ---
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 ---
