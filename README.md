@@ -1,7 +1,8 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3CB371,100:0B3D2E&text=Soumik%20Chatterjee&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-# 👋 Hi, I'm Soumik Chatterjee
+
+<h1>👋 Hi, I'm Soumik Chatterjee</h1>
 
 ### 🚀 AI Developer • Full Stack Developer • B.Tech AIML Student
 
