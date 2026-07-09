@@ -14,16 +14,23 @@
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180" alt="GitHub Octocat Waving">
+</p>
+
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning
-- 🏫 Narula Institute of Technology
-- 🦴 Currently building **BoneTalk**
-- 🌱 Learning Machine Learning, Deep Learning, MERN Stack, Computer Vision, Embedded AI & IoT
-- 💡 Passionate about building AI solutions for healthcare and accessibility.
-- ---
+- 🎓 **B.Tech in Artificial Intelligence & Machine Learning**
+- 🏫 **Narula Institute of Technology**
+- 🦴 **Currently Building:** BoneTalk
+- 🌱 **Learning:** Machine Learning, Deep Learning, MERN Stack, Computer Vision, Embedded AI & IoT
+- 💡 Passionate about building AI-powered solutions for healthcare and accessibility.
+- 🚀 Actively participating in hackathons and building impactful real-world projects.
+
+---
 
 # 🦴 Featured Project
 
