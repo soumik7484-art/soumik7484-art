@@ -6,13 +6,23 @@
 
 ### 🚀 AI Developer • Full Stack Developer • B.Tech AIML Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Enthusiast;Building+BoneTalk+for+Accessibility;Full+Stack+Developer;Healthcare+AI+Builder;Hackathon+Innovator;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Enthusiast;Building+Better+Solutions+with+AI;Exploring+Deep+Learning;MERN+Stack+Developer;Healthcare+AI+Innovator"/>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=soumik7484-art&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
