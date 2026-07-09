@@ -32,6 +32,36 @@
 - 🚀 Actively participating in hackathons and building impactful real-world projects.
 
 ---
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/soumik-chatterjee-810aa1386">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/soumik7484-art">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/imsoumik8">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:soumik7484@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📫 Reach Me
+
+- 📧 **Email:** **soumik7484@gmail.com**
+- 💼 **LinkedIn:** https://www.linkedin.com/in/soumik-chatterjee-810aa1386
+- 📷 **Instagram:** https://www.instagram.com/imsoumik8
+- 💻 **GitHub:** https://github.com/soumik7484-art
+
+---
 
 # 🦴 Featured Project
 
