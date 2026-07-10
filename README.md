@@ -184,6 +184,13 @@ Summarizes medical reports into easy-to-understand insights.
 </p>
 
 ---
+## 💬 Dev Quote
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=4000&pause=2000&color=3CB371&center=true&vCenter=true&width=900&lines=The+best+way+to+predict+the+future+is+to+invent+it.+—+Alan+Kay;Programs+must+be+written+for+people+to+read,+and+only+incidentally+for+machines+to+execute.+—+Harold+Abelson;Talk+is+cheap.+Show+me+the+code.+—+Linus+Torvalds;Simplicity+is+the+soul+of+efficiency.+—+Austin+Freeman;Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.+—+Cory+House" />
+
+</div>
 ## 🐍 Contribution Snake
 
 <picture>
