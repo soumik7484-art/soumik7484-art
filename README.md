@@ -191,14 +191,20 @@ Summarizes medical reports into easy-to-understand insights.
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=4000&pause=2000&color=3CB371&center=true&vCenter=true&width=900&lines=The+best+way+to+predict+the+future+is+to+invent+it.+—+Alan+Kay;Programs+must+be+written+for+people+to+read,+and+only+incidentally+for+machines+to+execute.+—+Harold+Abelson;Talk+is+cheap.+Show+me+the+code.+—+Linus+Torvalds;Simplicity+is+the+soul+of+efficiency.+—+Austin+Freeman;Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.+—+Cory+House" />
 
 </div>
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
+
+## 🐍 Oh No! The Snake Ate All of My Contributions!
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B3D2E,100:3CB371&section=footer"/>
 
