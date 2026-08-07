@@ -136,7 +136,7 @@ Summarizes medical reports into easy-to-understand insights.
 ## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ---
