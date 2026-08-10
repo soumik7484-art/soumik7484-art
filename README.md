@@ -161,7 +161,7 @@ Summarizes medical reports into easy-to-understand insights.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=soumik7484-art&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=soumik7484-art&show_icons=true&theme=tokyonight&rank_icon=github" />
 </p>
 ---
 
