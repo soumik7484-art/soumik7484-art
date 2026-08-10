@@ -104,7 +104,7 @@ Summarizes medical reports into easy-to-understand insights.
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soumik7484-art&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=soumik7484-art&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -161,7 +161,7 @@ Summarizes medical reports into easy-to-understand insights.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soumik7484-art&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=soumik7484-art&show_icons=true&theme=tokyonight" />
 </p>
 ---
 
