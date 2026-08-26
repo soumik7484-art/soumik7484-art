@@ -180,7 +180,7 @@ Summarizes medical reports into easy-to-understand insights.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumik7484-art&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph-two.vercel.app/graph?username=soumik7484-art&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
