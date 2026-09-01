@@ -183,6 +183,10 @@ Summarizes medical reports into easy-to-understand insights.
   <img src="https://github-readme-activity-graph-two.vercel.app/graph?username=soumik7484-art&theme=tokyo-night&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="Soumik's 3D Contribution Graph" />
+</p>
+
 ---
 ## 💬 Dev Quote
 
