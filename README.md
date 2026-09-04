@@ -198,6 +198,58 @@ Summarizes medical reports into easy-to-understand insights.
 
 ---
 
+## 🏆 GitHub Trophies & Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=soumik7484-art&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Soumik's GitHub Trophies" />
+</p>
+
+---
+
+## 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/soumik7484-art/notary-chain">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=soumik7484-art&repo=notary-chain&theme=tokyonight&hide_border=true" alt="Notary Chain" />
+  </a>
+  <a href="https://github.com/soumik7484-art/final-prototype-mediai-">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=soumik7484-art&repo=final-prototype-mediai-&theme=tokyonight&hide_border=true" alt="MediAI Prototype" />
+  </a>
+</p>
+
+---
+
+## ⚡ Engineering Philosophy & Metrics
+
+<div align="center">
+
+| Metric | Focus / Value |
+| :--- | :--- |
+| 🎯 **Current Focus** | Healthcare AI, Embedded IoT & Decentralized Apps |
+| 🧠 **Core Expertise** | Computer Vision, NLP, Full-Stack Architecture |
+| ⚡ **Philosophy** | Building high-leverage products that create real-world accessibility |
+| ☕ **Fuel** | Code, Coffee & Passion for Innovation |
+
+</div>
+
+---
+
+## 🤝 Support & Collaboration
+
+<p align="center">
+  <a href="https://github.com/soumik7484-art">
+    <img src="https://img.shields.io/badge/Follow-Soumik%20Chatterjee-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow GitHub" />
+  </a>
+  <a href="https://github.com/soumik7484-art?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-3CB371?style=for-the-badge&logo=git&logoColor=white" alt="Explore Repos" />
+  </a>
+  <a href="mailto:soumik7484@gmail.com">
+    <img src="https://img.shields.io/badge/Get%20In%20Touch-Let's%20Talk-0A66C2?style=for-the-badge&logo=google&logoColor=white" alt="Contact" />
+  </a>
+</p>
+
+---
+
 ## 🐍 Oh No! The Snake Ate All of My Contributions!
 
 <p align="center">
