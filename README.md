@@ -1,266 +1,183 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3CB371,100:0B3D2E&text=Soumik%20Chatterjee&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,70:161b22,100:0e4429&text=Soumik%20Chatterjee&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20Machine%20Learning%20Undergrad%20%E2%80%A2%20Full%20Stack%20Developer&descSize=16&descAlignY=62&descColor=10b981" alt="Soumik Chatterjee Banner" />
 
-<h1>👋 Hi, I'm Soumik Chatterjee</h1>
+<br/>
 
-### 🚀 AI Developer • Full Stack Developer • B.Tech AIML Student
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=750&lines=B.Tech+AIML+Student+%40+Narula+Institute+of+Technology;Building+BoneTalk+%E2%80%94+EMG-to-Speech+Wearable+AI;Full-Stack+Architect+(MERN+%2B+Python);Healthcare+AI+%26+Computer+Vision+Innovator;Open-Source+Explorer+%26+Hackathon+Builder" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=3CB371&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Enthusiast;Building+Better+Solutions+with+AI;Exploring+Deep+Learning;Full+Stack+Developer;Healthcare+AI+Innovator;Building+BoneTalk+to+Empower+Communication"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=soumik7484-art&label=Profile%20Views&color=3CB371&style=for-the-badge"/>
-
-</div>
-
----
+<br/><br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180" alt="GitHub Octocat Waving">
-</p>
-
----
-
-# 💫 About Me
-
-- 🎓 **B.Tech in Artificial Intelligence & Machine Learning**
-- 🏫 **Narula Institute of Technology**
-- 🦴 **Currently Building:** BoneTalk
-- 🌱 **Learning:** Machine Learning, Deep Learning, MERN Stack, Computer Vision, Embedded AI & IoT
-- 💡 Passionate about building AI-powered solutions for healthcare and accessibility.
-- 🚀 Actively participating in hackathons and building impactful real-world projects.
-
----
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/soumik-chatterjee-810aa1386">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/soumik-chatterjee-810aa1386" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://github.com/soumik7484-art">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;
+  <a href="https://github.com/soumik7484-art" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <a href="https://www.instagram.com/imsoumik8">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
+  &nbsp;
   <a href="mailto:soumik7484@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
----
-
-## 📫 Reach Me
-
-- 📧 **Email:** **soumik7484@gmail.com**
-- 💼 **LinkedIn:** https://www.linkedin.com/in/soumik-chatterjee-810aa1386
-- 📷 **Instagram:** https://www.instagram.com/imsoumik8
-- 💻 **GitHub:** https://github.com/soumik7484-art
-
----
-
-# 🦴 Featured Project
-
-<div align="center">
-
-## BoneTalk
-
-### *Giving a Voice Through AI & Muscle Signals*
-
-</div>
-
-> **BoneTalk** is an AI-powered wearable communication system that detects **EMG (muscle) activity** and converts it into meaningful words and sentences, helping mute individuals communicate naturally and independently.
-
-### ✨ Key Features
-
-- 🧠 AI-powered EMG signal interpretation
-- 💬 Muscle-to-Speech conversion
-- ♿ Accessibility-focused communication
-- ❤️ Built to improve lives through technology
-
----
-
-# 🚀 Other Projects
-
-### 🏥 MediAI
-AI-powered healthcare assistant with prescription OCR, medical report analysis and chatbot.
-
-### 📄 Prescription Reader
-Extracts medicine names and dosage from handwritten prescriptions.
-
-### 🩻 Medical Report Analyzer
-Summarizes medical reports into easy-to-understand insights.
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=soumik7484-art&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,javascript"/>
-</p>
-
----
-
-## 🎨 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
-</p>
-
----
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
----
-
-## 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
-</p>
-
----
-
-## 🛠️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+  &nbsp;
+  <a href="https://www.instagram.com/imsoumik8" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 </div>
 
 ---
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=soumik7484-art&show_icons=true&theme=tokyonight&rank_icon=github" />
-</p>
----
+### 👨‍💻 About Me
 
-## 🔥 GitHub Streak
+I am an **AI/ML undergraduate at Narula Institute of Technology**, focused on engineering assistive technologies and intelligent web platforms that solve tangible real-world problems. My work combines **applied deep learning**, **biosignal / IoT hardware**, and **scalable full-stack architecture**.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=soumik7484-art&theme=tokyonight&hide_border=true" />
-</p>
-
----
----
-
+- 🎓 **Education:** B.Tech in Artificial Intelligence & Machine Learning (Narula Institute of Technology)
+- 🧠 **Research & Focus:** Wearable EMG signal processing, biomedical computer vision, and assistive human-machine interfaces
+- 🔨 **Currently Building:** **BoneTalk (Saakantha)** — an AI wearable interpreting neuromuscular EMG signals to vocalize speech for speech-impaired individuals
+- 💻 **Core Stack:** Python, C++, PyTorch, OpenCV, JavaScript/TypeScript, React, Node.js, Express, MongoDB
+- 🚀 **Hackathons & Open Source:** Actively participating in national hackathons and building developer-centric tools
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph-two.vercel.app/graph?username=soumik7484-art&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="Soumik's 3D Contribution Graph" />
-</p>
-
----
-## 💬 Dev Quote
+### ⚡ Engineering Focus & Mindset
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=4000&pause=2000&color=3CB371&center=true&vCenter=true&width=900&lines=The+best+way+to+predict+the+future+is+to+invent+it.+—+Alan+Kay;Programs+must+be+written+for+people+to+read,+and+only+incidentally+for+machines+to+execute.+—+Harold+Abelson;Talk+is+cheap.+Show+me+the+code.+—+Linus+Torvalds;Simplicity+is+the+soul+of+efficiency.+—+Austin+Freeman;Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.+—+Cory+House" />
+| Domain | Focus & Direction | Primary Technologies |
+| :--- | :--- | :--- |
+| 🦴 **Assistive Wearables** | Neuromuscular EMG signal decoding & vocal synthesis | Python, Biosensors, Embedded IoT |
+| 🏥 **Healthcare AI** | Clinical document OCR, prescription extraction, diagnostic aids | OpenCV, PyTorch, Tesseract, MERN |
+| 🌐 **Modern Web & Web3** | Tamper-proof verification systems & developer productivity tools | React, Next.js, Node.js, Solidity |
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy-alpha.vercel.app/?username=soumik7484-art&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Soumik's GitHub Trophies" />
-</p>
-
----
-
-## 📌 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/soumik7484-art/notary-chain">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=soumik7484-art&repo=notary-chain&theme=tokyonight&hide_border=true" alt="Notary Chain" />
-  </a>
-  <a href="https://github.com/soumik7484-art/final-prototype-mediai-">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=soumik7484-art&repo=final-prototype-mediai-&theme=tokyonight&hide_border=true" alt="MediAI Prototype" />
-  </a>
-</p>
-
----
-
-## ⚡ Engineering Philosophy & Metrics
+### 🚀 Featured Projects
 
 <div align="center">
 
-| Metric | Focus / Value |
-| :--- | :--- |
-| 🎯 **Current Focus** | Healthcare AI, Embedded IoT & Decentralized Apps |
-| 🧠 **Core Expertise** | Computer Vision, NLP, Full-Stack Architecture |
-| ⚡ **Philosophy** | Building high-leverage products that create real-world accessibility |
-| ☕ **Fuel** | Code, Coffee & Passion for Innovation |
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **🦴 BoneTalk (Saakantha)** | AI-powered wearable assistive communication system converting throat/jaw EMG muscle signals into natural speech for mute individuals. | `Python` `Embedded AI` `IoT` `Signal Processing` | *Active Development* |
+| **📜 NotaryChain** | Decentralized document notarization and validation system guaranteeing cryptographic integrity for digital certificates and contracts. | `Solidity` `Polygon` `Web3.js` `React` `Node.js` | [GitHub](https://github.com/soumik7484-art/notary-chain) (⭐ 16) |
+| **🔍 ContriLens** | Open-source contribution discovery platform streamlining issue exploration and repo onboarding for new contributors. | `React` `Next.js` `Tailwind CSS` `GitHub API` | [GitHub](https://github.com/soumik7484-art/Contriblenss) • [Live Demo](https://ui-ux-for-opensource.vercel.app) |
+| **🏥 MediAI Suite** | Full-stack healthcare application with handwritten prescription OCR, report analysis, and an AI diagnostic assistant. | `Python` `OpenCV` `MERN Stack` `Groq API` | [GitHub](https://github.com/soumik7484-art/final-prototype-mediai-) |
+| **⛏️ Smart Mine Monitor** | Real-time IoT monitoring platform tracking hazardous gas concentrations (HCHO/CO) and worker safety in underground mines. | `JavaScript` `IoT Sensors` `WebSockets` `Vercel` | [GitHub](https://github.com/soumik7484-art/smart-mine-monitor) • [Live Demo](https://smartmine-delta.vercel.app) |
 
 </div>
 
 ---
 
-## 🤝 Support & Collaboration
+### 🛠️ Technical Skillset
+
+<div align="center">
+
+#### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css&theme=dark" alt="Languages" />
+</p>
+
+#### 🤖 AI & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI and ML" />
+</p>
+
+#### 🌐 Web & Backend Architecture
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tailwind&theme=dark" alt="Web Development" />
+</p>
+
+#### 🗄️ Databases, Tools & Embedded Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,arduino&theme=dark" alt="Tools and Databases" />
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
 
 <p align="center">
-  <a href="https://github.com/soumik7484-art">
-    <img src="https://img.shields.io/badge/Follow-Soumik%20Chatterjee-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow GitHub" />
-  </a>
-  <a href="https://github.com/soumik7484-art?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-3CB371?style=for-the-badge&logo=git&logoColor=white" alt="Explore Repos" />
-  </a>
-  <a href="mailto:soumik7484@gmail.com">
-    <img src="https://img.shields.io/badge/Get%20In%20Touch-Let's%20Talk-0A66C2?style=for-the-badge&logo=google&logoColor=white" alt="Contact" />
-  </a>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=soumik7484-art&show_icons=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&icon_color=f59e0b&border_color=30363d&rank_icon=github" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=soumik7484-art&layout=compact&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=soumik7484-art&background=0d1117&ring=10b981&fire=f59e0b&currStreakNum=10b981&sideNums=c9d1d9&currStreakLabel=f59e0b&sideLabels=8b949e&dates=8b949e&border=30363d" alt="GitHub Streak" />
+</p>
+
+</div>
+
+---
+
+### 📈 Contribution Visualizations
+
+<div align="center">
+
+<p align="center">
+  <img src="https://github-readme-activity-graph-two.vercel.app/graph?username=soumik7484-art&bg_color=0d1117&color=10b981&line=f59e0b&point=10b981&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+</div>
+
+---
+
+### 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=soumik7484-art&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🐍 Oh No! The Snake Ate All of My Contributions!
+### 🐍 Contribution Grid Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://github.com/soumik7484-art/soumik7484-art/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumik7484-art/soumik7484-art/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumik7484-art/soumik7484-art/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/soumik7484-art/soumik7484-art/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B3D2E,100:3CB371&section=footer"/>
+### 🤝 Let's Connect & Collaborate
 
+<p align="center">
+  I am always enthusiastic about collaborating on <b>Healthcare AI</b>, <b>Assistive Technology</b>, and <b>Open-Source Projects</b>.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/soumik-chatterjee-810aa1386" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:soumik7484@gmail.com">
+    <img src="https://img.shields.io/badge/Drop%20an-Email-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/soumik7484-art?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0e4429,50:161b22,100:0d1117&section=footer" alt="Footer Banner" />
+</div>
